@@ -5,5 +5,5 @@ Music taken from :
 2. http://www.orangefreesounds.com
 3. https://opengameart.org/
 
-Thankyou for checking out my Rock-Paper-Scissor Python game :)
+Thankyou for checking out my version of Rock-Paper-Scissor Python game :)
 
